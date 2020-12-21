@@ -1,0 +1,25 @@
+.container
+{
+    background-color: aquamarine
+}
+img
+{
+    height:400px;
+    width:400px;
+}
+#penguin, #tiger
+{
+        width:400px;
+        height:225px;
+
+
+}
+.gallery
+{
+    text-align: center;
+    padding-top: 250px;
+}
+.top
+{
+    text-align: center;
+}
